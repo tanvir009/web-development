@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> first</title>
+    </head>
+
+    <!-- https://htmlcolorcodes.com/ color code picker-->
+    <body style="background-color: #50FB0A;">
+        <h1 style="text-align:center; color: red;"> Hello world</h1> 
+        <h1 style="text-align:center; color: rgb(193, 251, 10);"> Hello world</h1> 
+        
+    </body>
+</html>

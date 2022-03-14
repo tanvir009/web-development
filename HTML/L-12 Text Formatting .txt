@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> first</title>
+    </head>
+
+    <b>anisul islam</b> <br>
+    <i>anisul islam</i> <br>
+    <u>anisul islam</u> <br>
+    <strike>anisul islam</strike><br>
+     
+     (a+b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup><br>
+
+     H<sub>2</sub>O
+
+    </body>
+</html>

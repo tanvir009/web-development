@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="utf-8">
+        <title> Html Font style </title>
+    </head>
+
+    <body>
+        <!-- depreciated-->
+        <font color = "red" size = "20px" face = "fantasy"> hello world</font> 
+
+        <p style="color: red; background-color: green; font-size: 28px; font-family: fantasy;"> I Love Bangladesh</p>
+    </body>
+</html>

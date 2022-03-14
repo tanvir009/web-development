@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="utf-8">
+        <title> iframe </title>
+    </head>
+
+    <body>
+        <ol>
+            <li><a href="https://www.google.com/" target="blank"> google</a></li>
+            <li><a href="https://www.youtube.com/" target="blank"> youtube</a></li>
+            <li><a href="https://www.facebook.com/" target="blank"> facebook</a></li>
+        </ol>
+    </body>
+</html>
